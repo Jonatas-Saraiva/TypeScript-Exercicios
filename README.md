@@ -1,2 +1,2 @@
 # TypeScript-Exercicios
-Alguns exercícios em typescript
+Alguns exercícios em typeScript
