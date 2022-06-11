@@ -1,0 +1,19 @@
+{
+    "nome": "Primeiro-Typescrpit",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "parcel index.html",
+        "test": "echo \"Erro : no test specifed\"&& exit 1"
+    },
+    "author": "Jonatas Saraiva",
+    "license": "MIT",
+    "dependencies": {
+        "@electron/remote": "^2.0.8",
+        "parcel-bundler": "^1.12.5"
+    },
+    "devDependencies": {
+        "typescript": "^4.7.3"
+    }
+}

@@ -1,0 +1,8 @@
+essa função compila um codigo em typescript, 
+utilizando no terminal:
+npx -p typescript tsc
+
+
+essa função inicia um projeto em typescripit,
+utilizando no terminal  :
+npx -p typescript tsc --init
